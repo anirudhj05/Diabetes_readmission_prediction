@@ -57,9 +57,9 @@ We employed several machine learning models to address the prediction task:
 
 ## Results
 
-- **FFNN Performance**: Achieved an accuracy of 75.88%, highlighting its ability to model complex patterns effectively.
-- **LR Performance**: Provided a baseline accuracy of 75.70%, demonstrating the importance of linear models in certain scenarios.
-- **ResNet Performance**: Showed a lower accuracy of 71.37%, suggesting challenges in adapting deep network architectures to structured medical data.
+- **FFNN Performance**: Achieved an accuracy of 77.9%, highlighting its ability to model complex patterns effectively.
+- **LR Performance**: Provided a baseline accuracy of 75.6%, demonstrating the importance of linear models in certain scenarios.
+- **ResNet Performance**: Showed a lower accuracy of 77.5%, suggesting challenges in adapting deep network architectures to structured medical data.
 
 ### Visualizations and Analysis
 - **Cumulative Gain and Lift Charts**: Illustrated how each model prioritized the correct identification of readmitted patients, with FFNN showing the most promising results.
