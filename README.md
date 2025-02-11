@@ -35,7 +35,7 @@ We employed several machine learning models to address the prediction task:
 
 1. **Feed Forward Neural Network (FFNN)**: Designed to capture non-linear interactions between features through multiple layers of neurons.
 2. **Residual Neural Network (ResNet)**: Utilizes skip connections to handle deeper network architectures without suffering from the vanishing gradient problem.
-3. **Logistic Regression (LR)** and **XGBoost**: Used as baseline models for comparison purposes.
+3. **Logistic Regression (LR)**: Used as a baseline model for comparison.
 
 #### Hyperparameters
 - **FFNN Configuration**:
